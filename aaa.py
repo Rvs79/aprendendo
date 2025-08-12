@@ -1,1 +1,1 @@
-print("AAAaaa");
+print("AAa");
